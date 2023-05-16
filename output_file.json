@@ -1,22 +1,42 @@
 [
-    {
-        "Detailed Policy Comparisons":{
-            "Safeco": {
-                "Price Per Year" :		"$134*12",
-                "Deductible" :		"$1000",
-                "Deductible Exceptions"	:	"none",
-                "Dwelling"		: "$1020000",
-                "Dwelling - Extended Coverage"		: "$255000",
-                "Total Dwelling"	:	"$1275000",
-                "Other Structures"	:	"$102000",
-                "Personal Property"	:	"$510000",
-                "Loss of Use" :	"$204000",
-                "Personal Liability"	:	"$300000",
-                "Medical Payments"	:	"$5000",
-                "Water Backup Coverage"	:	"No coverage",
-                "Flood Coverage"	:	"No coverage"
-
-            }
+  {
+    "policy_comps": [
+      {
+        "comp": {
+          "insurer": "safeco",
+          "price_per_year": "$1234",
+          "deductible": "$1000",
+          "deductible_exceptions": "n",
+          "dwelling": "$1020000",
+          "dwelling_extended_coverage": "$255000",
+          "total_dwelling": "$1275000",
+          "other_structures": "$102000",
+          "personal_property": "$510000",
+          "loss_of_use": "$204000",
+          "personal_liability": "$300000",
+          "medical_payments": "$5000",
+          "water_backup_coverage": "n",
+          "flood_coverage": "n"
         }
-    }
+      },
+      {
+        "comp": {
+          "insurer": "allstate",
+          "price_per_year": "$1234",
+          "deductible": "$1000",
+          "deductible_exceptions": "n",
+          "dwelling": "$1020000",
+          "dwelling_extended_coverage": "$255000",
+          "total_dwelling": "$1275000",
+          "other_structures": "$102000",
+          "personal_property": "$510000",
+          "loss_of_use": "$204000",
+          "personal_liability": "$300000",
+          "medical_payments": "$5000",
+          "water_backup_coverage": "n",
+          "flood_coverage": "n"
+        }
+      }
+    ]
+  }
 ]
