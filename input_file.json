@@ -1,0 +1,69 @@
+[
+    [
+        { 
+            "customer_": {
+                "First Name": "Fred",
+                "Last Name": "Meyer",
+                "Address":	"10408 113th PL NE Kirkland, WA 98033 USA",
+                "Gender":	"M",
+                "Birthday":	"09/01/1970",
+                "Credit Score"	: "Excellent",
+                "Move in Year"	: 1990,
+                "Loans"	: 1,
+                "Claims"	: "None in last 5 years",
+                "Marital Status"	: "Married",
+                "No of Occupants"	: "2 adults",
+                "Primary Dwelling"	: "Y",
+                "Desired Deductible"	: 1000,
+                "Employed"	: "Yes",
+                "Occupation"	: "Computer",
+                "Current Insurance"	: "No",
+                "Pets"	: "No",
+                "AirBnB"	: "No",
+                "Phone"	: "(425) 330-3526",
+                "email"	: "twaissins@gmail.com",
+                "Bundle with Auto?"	: "No",
+                "Insurance start date":	"Today + 30 days"
+            } 
+        },
+        {
+            "property_":{
+                "Finished Total Size" : 2900,
+                "Finished Basement Size" : 2300,
+                "Size_Unit" : "Square feet",
+                "Style" : "Contemporary",
+                "Stories"	: 2,
+                "Bedrooms"	: 3,
+                "Bathrooms"	: 2.5,
+                "Basement"	: "Fully Finished",
+                "Deck"	: 400,
+                "Deck_Unit" : "Square Feet",
+                "Roof"	: "Flat. Asphalt.",
+                "Flood Zone"	: "No",
+                "Fire Hydrant"	: "Yes",
+                "Fire Station"	: "Yes",
+                "Fire Detection"	: "Smoke Alarm",
+                "Fire Extinguisher"	: "Yes",
+                "Carbon Monoxide Alert"	: "Yes",
+                "Built"	: 1990,
+                "Fireplaces"	: 1,
+                "Garage"	: "2 car, attached",
+                "Heat" 	: "Gas Furnace",
+                "Cooling"	: "Central Air",
+                "Roof Replaced"	: 2015,
+                "Exterior Siding"	: "Wood",
+                "Foundation"	: "Concrete",
+                "Burglar Alarm"	: "Yes, local",
+                "Expensive Jewelry/Other" 	: "No",
+                "Trampoline"	: "No",
+                "Swimming Pool"	: "No",
+                "Business on Premises"	: "No",
+                "Interior Quality Grade"	: "Basic/Builder",
+                "Sprinkler"	: "No",
+                "More Details"	: "https://blue.kingcounty.com/Assessor/eRealProperty/Detail.aspx?ParcelNbr=3893100454"
+
+
+            }
+        }
+    ]
+]

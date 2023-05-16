@@ -1,0 +1,22 @@
+[
+    {
+        "Detailed Policy Comparisons":{
+            "Safeco": {
+                "Price Per Year" :		"$134*12",
+                "Deductible" :		"$1000",
+                "Deductible Exceptions"	:	"none",
+                "Dwelling"		: "$1020000",
+                "Dwelling - Extended Coverage"		: "$255000",
+                "Total Dwelling"	:	"$1275000",
+                "Other Structures"	:	"$102000",
+                "Personal Property"	:	"$510000",
+                "Loss of Use" :	"$204000",
+                "Personal Liability"	:	"$300000",
+                "Medical Payments"	:	"$5000",
+                "Water Backup Coverage"	:	"No coverage",
+                "Flood Coverage"	:	"No coverage"
+
+            }
+        }
+    }
+]
